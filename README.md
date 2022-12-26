@@ -25,5 +25,5 @@ https://github.com/KPEKZ/IT_PROJECT
 https://kpekz.github.io/IT_PROJECT/#/home
 # ✅Лабораторная работа №3
 
-# ✅Экзаменационный билет №12
-Билет №12
+# ✅Экзаменационный билет №10
+Билет №10
