@@ -24,6 +24,7 @@ https://github.com/KPEKZ/IT_PROJECT
 Ссылка на страницу проекта
 https://kpekz.github.io/IT_PROJECT/#/home
 # ✅Лабораторная работа №3
+Цель работы: изучить принципы организации взаимодействия прикладных программ с помощью протоколов электронной почты SMTP и POP3 в режиме симуляции Cisco Packet Tracer.
 Ссылка на результат:
 https://github.com/VladNuriev/ThirdLab/blob/master/README.md
 
