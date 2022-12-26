@@ -9,8 +9,10 @@
 5. Размещение странички на хостинге
 
 Ссылка на личный репозиторий:
+https://github.com/VladNuriev/--22-07
 
 Ссылка на личную страницу:
+https://github.com/VladNuriev
 # ✅Лабораторная работа №2
 Разработка простого веб-приложения (html,css,js + json,xml):
 
@@ -18,6 +20,7 @@
 
 Ссылка на репозиторий проекта
 https://github.com/KPEKZ/IT_PROJECT
+
 Ссылка на страницу проекта
 https://kpekz.github.io/IT_PROJECT/#/home
 # ✅Лабораторная работа №3
