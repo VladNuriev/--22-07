@@ -17,9 +17,9 @@
 Выполняется лабораторная в команде "MadOstriches"
 
 Ссылка на репозиторий проекта
-
+https://github.com/KPEKZ/IT_PROJECT
 Ссылка на страницу проекта
-
+https://kpekz.github.io/IT_PROJECT/#/home
 # ✅Лабораторная работа №3
 
 # ✅Экзаменационный билет №12
