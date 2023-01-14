@@ -29,5 +29,8 @@ https://kpekz.github.io/IT_PROJECT/#/home
 Ссылка на результат:
 https://github.com/VladNuriev/ThirdLab/blob/master/README.md
 
-# ✅Экзаменационный билет №10
-Билет №10
+# ✅Экзаменационный билет №14
+Билет №14
+https://github.com/stankin/inet-2022/wiki/exam14
+Ссылка на все коммиты:
+https://github.com/stankin/inet-2022/wiki/exam14/_history
